@@ -1,0 +1,1 @@
+To reproduce the bug, cd into the caller folder and run: `leo build`.

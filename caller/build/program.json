@@ -1,0 +1,18 @@
+{
+    "program": "caller.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "license": "MIT",
+    "dependencies": [
+        {
+            "name": "import_a.aleo",
+            "location": "local",
+            "path": "../import_a"
+        },
+        {
+            "name": "import_b.aleo",
+            "location": "local",
+            "path": "../import_b"
+        }
+    ]
+}
